@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {
+      "source": "/googleforms.seb",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/seb"
+        }
+      ]
+    }
+  ]
+}
